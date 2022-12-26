@@ -6,7 +6,7 @@ require_once('database/db.php');//db config file
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Search|<?php getwebname("titles"); echo"|"; gettagline("titles");?></title>
+	<title>Search | Yuvraj's Programming Spot</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
@@ -76,14 +76,14 @@ require_once('database/db.php');//db config file
     $result = $pdo_statement->fetchAll();
     ?>
 	<!--/banner-->
-	<div class="banner-inner">
+	<!-- <div class="banner-inner">
 	</div>
 	<ol class="breadcrumb">
 		<li class="breadcrumb-item">
 			<a href="index.html">Home</a>
 		</li>
 		<li class="breadcrumb-item active">Search</li>
-	</ol>
+	</ol> -->
 	<!--//banner-->
 	<!--/main-->
 	<section class="main-content-w3layouts-agileits">

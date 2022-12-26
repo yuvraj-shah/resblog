@@ -684,7 +684,7 @@ button.btn.btn-primary.play{
     -webkit-transition: all 1s;
     transition: all 1s;
 	background: #ebecec;
-    padding: .4em;
+    padding: 0.4em  ;
 }
 .blog-info-middle ul li {
     display: inline-block;

@@ -6,8 +6,8 @@
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
-		'adminPassword' => "21232f297a57a5a743894a0e4a801fc3",
-		'notifyAdminNewMembers' => "0",
+		'adminPassword' => "8f558e3ac6b553570780d61cc90c98c1",
+		'notifyAdminNewMembers' => "2",
 		'defaultSignUp' => "1",
 		'anonymousGroup' => "anonymous",
 		'anonymousMember' => "guest",
